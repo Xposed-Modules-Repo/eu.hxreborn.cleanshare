@@ -7,7 +7,7 @@ CleanShare is an Xposed module that removes Direct Share's suggested contact/con
 ![Android](https://img.shields.io/badge/API-30%2B-3DDC84?logo=android&logoColor=white)
 
 <div align="center">
-  <img src=".github/assets/direct-share-targets.png" alt="Direct Share targets row removed" width="320" />
+  <img src="https://raw.githubusercontent.com/hxreborn/cleanshare/main/.github/assets/direct-share-targets.png" alt="Direct Share targets row removed" width="320" />
 </div>
 
 ## About
@@ -30,7 +30,7 @@ On devices with [Android System Intelligence](https://www.androidpolice.com/what
 
    <a href="https://f-droid.org/packages/eu.hxreborn.cleanshare"><img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" height="60" alt="Get it on F-Droid" /></a>
    <a href="https://apt.izzysoft.de/fdroid/index/apk/eu.hxreborn.cleanshare?repo=main"><img src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png" height="60" alt="Get it on IzzyOnDroid" /></a>
-   <a href="../../releases"><img src=".github/assets/badge_github.png" height="62" alt="Get it on GitHub" /></a>
+   <a href="https://github.com/hxreborn/cleanshare/releases"><img src="https://raw.githubusercontent.com/hxreborn/cleanshare/main/.github/assets/badge_github.png" height="62" alt="Get it on GitHub" /></a>
 
 2. Install and enable the module in LSPosed.
 3. Configure the scope:
@@ -71,6 +71,6 @@ RELEASE_KEY_PASSWORD=<key_password>
 
 ## License
 
-<a href="LICENSE"><img src=".github/assets/gplv3.svg" height="90" alt="GPLv3"></a>
+<a href="https://github.com/hxreborn/cleanshare/blob/main/LICENSE"><img src="https://raw.githubusercontent.com/hxreborn/cleanshare/main/.github/assets/gplv3.svg" height="90" alt="GPLv3"></a>
 
-This project is licensed under the GNU General Public License v3.0 – see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0 – see the [LICENSE](https://github.com/hxreborn/cleanshare/blob/main/LICENSE) file for details.
