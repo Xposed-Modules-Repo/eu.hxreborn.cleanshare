@@ -18,11 +18,19 @@ CleanShare tricks the Share Sheet into thinking it's running on a low-RAM device
 
 On devices with [Android System Intelligence](https://www.androidpolice.com/what-is-android-system-intelligence/), it also blocks backend shortcut queries to prevent share target profiling.
 
+## Features
+
+- Hide Direct Share suggestions from the share sheet
+- Block share target profiling via Android System Intelligence
+- Hide Quick Share / Nearby Share from share sheet results
+- Option to delete shared screenshots after sharing (root required)
+- Built-in settings app
+
 ## Requirements
 
 - Android 11 (API 30) or higher
 - [LSPosed](https://github.com/JingMatrix/LSPosed) (JingMatrix fork recommended)
-- Pixel or AOSP-based ROM (OEM skins untested)
+- Pixel or AOSP-based ROM (Other OEMs are untested)
 
 ## Installation
 
